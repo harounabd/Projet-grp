@@ -11,6 +11,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=apps/environnement.ipynb)
 
 ### Idées de départ
+
+
+
+
+
+
 * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_00.ipynb)
 * TD - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_00_1.ipynb)
 * Activité - [Histoire de l'informatique](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_histoire.pdf)
